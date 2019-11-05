@@ -1,0 +1,15 @@
+.logo_h {
+    color: #FFF !important;
+    opacity: 0.85;
+    font-weight: bold;
+    font-size: 1.6em;
+}
+
+.capitalize {
+    text-transform: capitalize
+}
+
+.p_120 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
